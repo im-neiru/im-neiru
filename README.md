@@ -17,6 +17,7 @@ Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.
 <a href="https://www.solidjs.com/"><img src="./assets/solid.png" alt="solid" height="40px"/></a>
 <a href="https://svelte.dev/"><img src="./assets/svelte.png" alt="svelte" height="40px"/></a>
 <a href="https://graphql.org/"><img src="./assets/graphql.png" alt="grapql" height="40px"/></a>
+<a href="https://threejs.org/"><img src="./assets/three.png" alt="three" height="40px"/></a>
 <a href="https://expressjs.com/"><img src="./assets/express.png" alt="express" height="40px"/></a>
 <a href="https://www.mysql.com/"><img src="./assets/mysql.png" alt="mysql" height="40px"/></a>
 <a href="https://www.postgresql.org/"><img src="./assets/postgres.png" alt="postgres" height="40px"/></a>
