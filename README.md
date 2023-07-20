@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neil ⚡
 
-Rust enjoyer <img src="./assets/ferris_party_64.png" alt="ferris" width="24px"/>, currently working as React Native developer ⚛️.
+Rust enjoyer <img src="./assets/ferris_party_64.png" alt="ferris" width="24px"/>, currently working as React Native developer <img src="./assets/react-native.png" alt="react-native" width="24px"/>.
 
 Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.com/) .
 
