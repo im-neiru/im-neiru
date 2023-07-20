@@ -16,6 +16,7 @@ Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.
 <a href="https://react.dev/"><img src="./assets/react.png" alt="react" height="40px"/></a>
 <a href="https://www.solidjs.com/"><img src="./assets/solid.png" alt="solid" height="40px"/></a>
 <a href="https://svelte.dev/"><img src="./assets/svelte.png" alt="svelte" height="40px"/></a>
+<a href="https://axios-http.com/"><img src="./assets/axios.png" alt="axios" height="40px"/></a>
 <a href="https://graphql.org/"><img src="./assets/graphql.png" alt="grapql" height="40px"/></a>
 <a href="https://threejs.org/"><img src="./assets/three.png" alt="three" height="40px"/></a>
 <a href="https://expressjs.com/"><img src="./assets/express.png" alt="express" height="40px"/></a>
