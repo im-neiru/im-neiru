@@ -12,6 +12,7 @@ Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.
 <a href="https://www.scala-lang.org/"><img src="./assets/scala.png" alt="scala" height="40px"/></a>
 <a href="https://isocpp.org/"><img src="./assets/cpp.png" alt="c++" height="40px"/></a>
 <a href="https://nodejs.org/"><img src="./assets/nodejs.png" alt="nodejs" height="40px"/></a>
+<a href="https://bun.sh/"><img src="./assets/bun.png" alt="nodejs" height="40px"/></a>
 <a href="https://flutter.dev/"><img src="./assets/flutter.png" alt="flutter" height="40px"/></a>
 <a href="https://react.dev/"><img src="./assets/react.png" alt="react" height="40px"/></a>
 <a href="https://www.solidjs.com/"><img src="./assets/solid.png" alt="solid" height="40px"/></a>
