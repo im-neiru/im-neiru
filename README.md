@@ -26,7 +26,6 @@ Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.
 <a href="https://www.mongodb.com/"><img src="./assets/mongodb.png" alt="mongodb" height="40px"/></a>
 <a href="https://git-scm.com/about"><img src="./assets/git.png" alt="git" height="40px"/></a>
 <a href="https://docs.docker.com/"><img src="./assets/docker.png" alt="docker" height="40px"/></a>
-<a href="https://www.postman.com/"><img src="./assets/postman.png" alt="postman" height="40px"/></a>
 <a href="https://www.linux.org/"><img src="./assets/linux.png" alt="linux" height="40px"/></a>
 
 <p align="center">
