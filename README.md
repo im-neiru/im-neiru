@@ -29,5 +29,5 @@ Currently learning [Tauri](https://tauri.app/)  & [SurrealDB](https://surrealdb.
 <a href="https://www.linux.org/"><img src="./assets/linux.png" alt="linux" height="40px"/></a>
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-neiru&exclude_repo=opencv4.1.2-win-prebuilt,computer-ecommerce,llvm-project,actix-web,rust-analyzer&icons=true&theme=transparent&langs_count=6&layout=donut-vertical&hide_border=true&hide=css"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-neiru&exclude_repo=opencv4.1.2-win-prebuilt,computer-ecommerce,llvm-project,actix-web,rust-analyzer&icons=true&theme=transparent&langs_count=6&layout=donut-vertical&hide_border=true&hide=css"/>
 </p>
